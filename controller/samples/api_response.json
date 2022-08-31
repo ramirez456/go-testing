@@ -1,0 +1,11 @@
+{
+  "Id": 4,
+  "Name": "charmander",
+  "Type": "fire",
+  "Abilities": {
+      "Attack": 52,
+      "Defense": 43,
+      "Hp": 39,
+      "Speed": 65
+  }
+}

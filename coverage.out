@@ -1,0 +1,23 @@
+mode: set
+catching-pokemons/controller/poke_api_handler.go:21.76,23.16 2 1
+catching-pokemons/controller/poke_api_handler.go:27.2,31.16 4 1
+catching-pokemons/controller/poke_api_handler.go:23.16,25.3 1 0
+catching-pokemons/controller/poke_api_handler.go:31.16,33.3 1 0
+catching-pokemons/controller/poke_api_handler.go:36.57,41.40 3 1
+catching-pokemons/controller/poke_api_handler.go:46.2,46.16 1 1
+catching-pokemons/controller/poke_api_handler.go:50.2,52.16 2 1
+catching-pokemons/controller/poke_api_handler.go:56.2,56.50 1 1
+catching-pokemons/controller/poke_api_handler.go:41.40,44.3 2 0
+catching-pokemons/controller/poke_api_handler.go:46.16,49.3 2 0
+catching-pokemons/controller/poke_api_handler.go:52.16,54.3 1 0
+catching-pokemons/controller/poke_api_handler.go:59.78,63.16 3 1
+catching-pokemons/controller/poke_api_handler.go:67.2,67.48 1 1
+catching-pokemons/controller/poke_api_handler.go:71.2,71.42 1 1
+catching-pokemons/controller/poke_api_handler.go:75.2,76.16 2 1
+catching-pokemons/controller/poke_api_handler.go:80.2,83.16 3 1
+catching-pokemons/controller/poke_api_handler.go:86.2,86.24 1 1
+catching-pokemons/controller/poke_api_handler.go:63.16,65.3 1 0
+catching-pokemons/controller/poke_api_handler.go:67.48,69.3 1 1
+catching-pokemons/controller/poke_api_handler.go:71.42,73.3 1 1
+catching-pokemons/controller/poke_api_handler.go:76.16,78.3 1 0
+catching-pokemons/controller/poke_api_handler.go:83.16,85.3 1 0

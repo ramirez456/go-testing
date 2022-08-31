@@ -1,0 +1,11 @@
+{
+    "Id": 2,
+    "Name": "ivysaur",
+    "Type": "grass",
+    "Abilities": {
+      "Attack": 62,
+      "Defense": 63,
+      "Hp": 60,
+      "Speed": 60
+    }
+  }
